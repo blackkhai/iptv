@@ -17,4 +17,6 @@ https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 http://194.233.86.5:5080/WebRTCApp/streams/oasis.m3u8
 #EXTINF:0 tvg-name="Star Movies HD" tvg-ID="starmovies.in" tvg-logo="https://brandslogo.net/wp-content/uploads/2015/09/star-movies-logo-vector-download.jpg" group-title="MY-AR",Star Movies HD
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/71/Aljazeera.svg",Al Jazeera English
+plugin://plugin.video.youtube/play/?video_id=-upyPouRrB8
 
