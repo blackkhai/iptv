@@ -3,6 +3,10 @@
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000,RESOLUTION=1280x720
 #EXTINF:0 tvg-name="TV1" tvg-ID="TV1.HD.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png" group-title="MY-AR",TV1
 https://rtmlive01.secureswiftcontent.com/rtmchannel/01-480.m3u8|Referer=https://myklik.rtm.gov.my
+#EXTINF:0 tvg-name="TV2" tvg-ID="tv2.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/396_144.png" group-title="MY-AR",TV2
+https://rtmlive05.secureswiftcontent.com/rtmchannel/05-480.m3u8|Referer=https://myklik.rtm.gov.my
+#EXTINF:0 tvg-name="Okey" tvg-ID="Okey.my" tvg-logo="https://en.wikipedia.org/wiki/TV_Okey#/media/File:Okey_RTM.png"MY-AR",TVOkey
+https://rtmlive02.secureswiftcontent.com/rtmchannel/02-480.m3u8|Referer=https://myklik.rtm.gov.my
 #EXTINF:0 tvg-name="RTM Sport" tvg-ID="tvsukan.my" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/Sukan_RTM_1_April.png" group-title="MY-AR",RTM Sport
 https://rtmlive06.secureswiftcontent.com/rtmchannel/06-1080.m3u8|Referer=https://myklik.rtm.gov.my
 #EXTINF:0 tvg-name="RTM Sport" tvg-ID="tvsukan.my" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/Sukan_RTM_1_April.png" group-title="MY-AR",RTM Sport
@@ -21,6 +25,8 @@ https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHY_f8XNKYEglP5X7Rj
 https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 #EXTINF:0 tvg-name="Astro Oasis" tvg-ID="AstroOasis.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/70_144.png" group-title="MY-AR",Astro Oasis (1080p)
 http://194.233.86.5:5080/WebRTCApp/streams/oasis.m3u8
+#EXTINF:0 tvg-name="Astro Arena" tvg-ID="astroarena.my" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/Ct3sncQXg6.png" group-title="MY-AR",Astro Arena
+http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8|Referer=https://https://sooka.my/
 #EXTINF:0 tvg-name="Star Movies HD" tvg-ID="starmovies.in" tvg-logo="https://brandslogo.net/wp-content/uploads/2015/09/star-movies-logo-vector-download.jpg" group-title="MY-AR",Star Movies HD
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/71/Aljazeera.svg",Al Jazeera English
