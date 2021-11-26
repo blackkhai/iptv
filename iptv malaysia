@@ -24,7 +24,11 @@ https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHY_f8XNKYEglP5X7Rj
 #EXTINF:0 tvg-name="Astro Awani" tvg-ID="AstroAwani.my" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Astro_Awani.png" group-title="MY-AR",Astro Awani (1080p)
 https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 #EXTINF:0 tvg-name="Astro Oasis" tvg-ID="AstroOasis.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/70_144.png" group-title="MY-AR",Astro Oasis (1080p)
-http://194.233.86.5:5080/WebRTCApp/streams/oasis.m3u8
+https://tvmalaysiaonline.xyz/hls/channel110.m3u8|Referer=https://www.tvmalaysia.online/
+#EXTINF:0 tvg-name="Astro Prima" tvg-ID="AstroPrima.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png" group-title="MY-AR",Astro Prima 
+https://tvmalaysiaonline.xyz/hls/channel8.m3u8|Referer=https://www.tvmalaysia.online/
+#EXTINF:0 tvg-name="Astro Citra" tvg-ID="Astro.Citra.HD.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png" group-title="MY-AR",Astro Citra
+https://tvmalaysiaonline.xyz/hls/channel7.m3u8|Referer=https://www.tvmalaysia.online/
 #EXTINF:0 tvg-name="Astro Arena" tvg-ID="astroarena.my" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/Ct3sncQXg6.png" group-title="MY-AR",Astro Arena
 https://tvmalaysiaonline.xyz/hls/channel18.m3u8|Referer=https://www.tvmalaysia.online/
 #EXTINF:0 tvg-name="Star Movies HD" tvg-ID="starmovies.in" tvg-logo="https://brandslogo.net/wp-content/uploads/2015/09/star-movies-logo-vector-download.jpg" group-title="MY-AR",Star Movies HD
