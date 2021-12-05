@@ -14,8 +14,8 @@ https://tvmalaysiaonline.xyz/hls/channel1.m3u8|Referer=https://www.tvmalaysia.on
 #EXTINF:0 tvg-name="TV9" tvg-ID="tv9.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/48_144.png" group-title="MY-AR",TV9
 #EXTVLCOPT:http-referrer=https://www.xtra.com.my/live-tv/
 https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHfNjC75ZbhkysPwY8NvPil8)/dm/3/x6qqja6/s/live-4.m3u8
-#EXTINF:0 tvg-name="TV9" tvg-ID="tv9.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/48_144.png"user-agent="Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36" group-title="MY-AR",TV9
-https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHfNjC75ZbhkysPwY8NvPil8)/dm/3/x6qqja6/s/live-4.m3u8|Referer=https://www.xtra.com.my/live-tv/
+EXTINF:-1 tvg-name="TV9" tvg-ID="tv9.my" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv9.png" group-title="MY-AR",TV9 (720p) [Not 24/7]
+http://194.233.86.5:5080/WebRTCApp/streams/tv99.m3u8
 EXTINF:-1 tvg-id="TV9.my" tvg-country="MY" tvg-language="Malay" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv9.png" group-title="",TV9 (720p) [Not 24/7]
 https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHfNjC75ZbhkysPwY8NvPil8)/dm/3/x6qqja6/s/live-4.m3u8
 #EXTINF:0 tvg-name="NTV7" tvg-ID="ntv7.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/93_144.png" group-title="MY-AR",NTV7
