@@ -11,12 +11,11 @@ https://rtmlive02.secureswiftcontent.com/rtmchannel/02-480.m3u8|Referer=https://
 https://rtmlive06.secureswiftcontent.com/rtmchannel/06-1080.m3u8|Referer=https://myklik.rtm.gov.my
 #EXTINF:0 tvg-name="TV3" tvg-ID="tv3.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" group-title="MY-AR",TV3
 https://tvmalaysiaonline.xyz/hls/channel1.m3u8|Referer=https://www.tvmalaysia.online/
-#EXTINF:0 tvg-name="TV9" tvg-ID="tv9.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/48_144.png" group-title="MY-AR",TV9
-#EXTVLCOPT:http-referrer=https://www.xtra.com.my/live-tv/
-https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHfNjC75ZbhkysPwY8NvPil8)/dm/3/x6qqja6/s/live-4.m3u8
 EXTINF:-1 tvg-name="TV9" tvg-ID="tv9.my" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv9.png" group-title="MY-AR",TV9 (720p) [Not 24/7]
 http://194.233.86.5:5080/WebRTCApp/streams/tv99.m3u8
 EXTINF:-1 tvg-id="TV9.my" tvg-country="MY" tvg-language="Malay" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv9.png" group-title="",TV9 (720p) [Not 24/7]
+https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHfNjC75ZbhkysPwY8NvPil8)/dm/3/x6qqja6/s/live-4.m3u8
+EXTINF:-1 tvg-name="TV9" tvg-id="TV9.my" tvg-country="MY" tvg-language="Malay" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv9.png" group-title="MY-AR",TV9 (720p) [Not 24/7]
 https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHfNjC75ZbhkysPwY8NvPil8)/dm/3/x6qqja6/s/live-4.m3u8
 #EXTINF:0 tvg-name="NTV7" tvg-ID="ntv7.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/93_144.png" group-title="MY-AR",NTV7
 https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHRI3RorIpoDM_xisUVU3E6s)/dm/3/x6qp6ou/s/live-1.m3u8
