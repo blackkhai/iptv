@@ -40,6 +40,8 @@ plugin://plugin.video.youtube/play/?video_id=-upyPouRrB8
 plugin://plugin.video.youtube/play/?video_id=0g-C9zGbbzM
 #EXTINF:-1 tvg-id="hbo.my" tvg-name="HBO Asia" tvg-country="MY" tvg-language="Malay" tvg-language="Malay" tvg-logo="" group-title="MY-AR",HBO
 https://tvmalaysiaonline.xyz/hls/channel16.m3u8
+#EXTINF:-1,US: HBO ZONE
+http://un-pluggedtv.net:8080/Mrsd/D1234567/34798
 #EXTINF:0 tvg-name="Cinemax" tvg-ID="cinemax.my" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Cinemax_new.png" group-title="MY-AR",Cinemax
 https://tvmalaysiaonline.xyz/hls/channel17.m3u8|Referer=https://www.tvmalaysia.online/
 #EXTINF:0 tvg-name="tvN Movies" tvg-ID="tvnmovies.my" tvg-logo="http://www.businesskorea.co.kr/news/userArticlePhoto.html" group-title="MY-AR",tvN Movies
