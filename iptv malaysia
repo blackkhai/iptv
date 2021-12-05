@@ -40,28 +40,16 @@ plugin://plugin.video.youtube/play/?video_id=-upyPouRrB8
 plugin://plugin.video.youtube/play/?video_id=0g-C9zGbbzM
 #EXTINF:0 tvg-name="HBO Asia" tvg-ID="hbo.my" tvg-logo="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHcAAABICAMAAAD7y5rAAAAAZlBMVEUAAAD///9KSkrExMTm5ua8vLzp6enKysqoqKi2trb4+Pitra3AwMD8/Pzz8/OGhoaioqLg4OBfX19AQEA1NTXZ2dmAgIAODg4tLS1tbW3T09NVVVUmJiZPT08fHx9zc3OWlpYXFxcQ5Lv0AAAEHElEQVRoge2Z29qqIBCGIU3M3CBuUttI93+TC9SSQcH+ZJ31nfQEg6/oMDMgChT5ER6VgtYER36wphQbleTnjBVPdClZFlYR7ExTjEqkyJs6qNqIfHxCq7ocsm6VWtUNMHy2ntJLQpKjg9pPpp5Q4x7XuVIlWVC9Yu0ew2Tq9itKq91chNoEUKu7we5xGg2CKjx1DrioCRQstxheR4foOi9wwUWXt4NFpslqAOyEi4qXo942DNHJKRdl45vbMhM6O+Ui+YqTzdlKeU65tRjFPsHKyznkokgLNmaVX3JpXlVV52XwaiT9EIsQ/477cskUxEK+eMq3/kzEUuXXBTjYxcWd2tpc4LWfx3cYC2qNW+/jYov/DgsrCvJ8iGWBFrHTfVwwFkiu0q4d7qvgIpol8C3QfVwjNhRzbee/R32RHQzc80dc48JphdM91Abx1CNgoeUF7sVSHnQEjXucsOZFneKkhC0Uw9ohRuZ3ZOLWJyluHihml+ltOU7UZce/4H5gv4whPbyX3g330Ct/nqtvPsVEHeCE22DFeaVXrWR/DzyEmwPug8NVkq0GFKotu/1cli64j6UVd86Vc1G5tWG+6gp28ZyFuOpXbLUC6HCl/Ls7WkfgwerxblAEAoejdQRFcLJoy+BD0OJGm42CqVqvN3xRb1SEG7mtnliQXL6g2NTiZPeXvBBpMXhWhcGCRkPCUV1Azwt/y4O5iSvL+Ks2pIMGu/KvccI9yJJlLvIiKIP4/6o3ZDmdhkys46KXFw1gJPF3cWEqhxq3flE67thirXNfXQc8hemxkb92p0mnp4nuK2482vjQZUOOdN35MY7DvtHbGf6KW97v1+tVK5fFUL3FKP877roCkNdtotgh94DtRwyzGHbJHXa17aaZWFeJS+500LDcgul6TEchjrj5NHBrxsXrBMYNdw5h3GrH3ntEJ1yKZ9m8OpzNXHBjrCpa7BUmterx2n4uC7Amv18zq4ANPI99cfXzWCO3qXOdKpWeYWV3oPrNIeLNil+9vqe2RjiIvTWRINGJM5rQ/t40xbWmZOWcGhkH/l/9uD/uj/vj/rgfcMNFutCV0j6rbAYJDa39Ii9TquQHya3GfZRF444ztlhEoJpY01kthwauPAW1jzmgG3+giznrSe7Zfo1yLLJn7rCtO5kHYHmkWWPCueV77yZ3OM2ZiwQki5oHfX9pW5coT/vVwuJzbo/6VnmdSD6AOh/OJCxXlTtJFtksNripeKRneZr05nayrCq3PKsSU77v4IpKMU2V14nk7pm1YtNscZo0yzw50rLatrgFejJ2mW8dvU9nLZ4lbEpZnH7PfZ/mvLwEiYceEo9Mn+0MGr83MIvFBle8JY+Q0xwoUM1a+UsZ8y3jwgI13NIvPO9qCSsRY8OHrJ5dp5Z/4xo5EtvK9YcAAAAASUVORK5CYII=" group-title="MY-AR",HBO Asia
 https://tvmalaysiaonline.xyz/hls/channel16.m3u8|Referer=https://www.tvmalaysia.online/
-#EXTINF:-1,HBO | HD
-http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13183
 #EXTINF:0 tvg-name="Cinemax" tvg-ID="cinemax.my" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Cinemax_new.png" group-title="MY-AR",Cinemax
 https://tvmalaysiaonline.xyz/hls/channel17.m3u8|Referer=https://www.tvmalaysia.online/
 #EXTINF:0 tvg-name="tvN Movies" tvg-ID="tvnmovies.my" tvg-logo="http://www.businesskorea.co.kr/news/userArticlePhoto.html" group-title="MY-AR",tvN Movies
 https://tvmalaysiaonline.xyz/hls/channel30.m3u8|Referer=https://www.tvmalaysia.online/
 #EXTINF:0 tvg-name="tvN" tvg-ID="tvN.HD.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/190_144.png" group-title="MY-AR",tvN
 https://tvmalaysiaonline.xyz/hls/channel29.m3u8|Referer=https://www.tvmalaysia.online/
-#EXTINF:-1,Animal Planet
-http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13255
-#EXTINF:-1,Discovery Channel
-http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13256
-#EXTINF:-1,Discovery Channel 
-http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13257
-#EXTINF:-1,Disney Channel
-http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/1330
-#EXTINF:-1,NatGeo Wild 
-http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/19627
 #EXTINF:-1 tvg-id="Kixtv" tvg-name="FOX Movies" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/_c1GwGITir1NUH20L6CbHjlBk9Q=/640x360/filters:quality(90)/vidio-web-prod-video/uploads/video/image/78131/fox-movies-premium-501-heroes-unite-b18d3c.jpg" group-title="Server ID",Server ID: FOX Movies FHD
 http://forsat.men:8888/merpatistream/merpati99/3640
-#EXTINF:-1, FOX Movies
-https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1,HBO HD
+http://186.226.215.43:8000/play/a05z
 
 
 
