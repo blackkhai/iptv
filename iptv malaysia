@@ -14,8 +14,7 @@ https://rtmlive06.secureswiftcontent.com/rtmchannel/06-1080.m3u8|Referer=https:/
 #EXTINF:0 tvg-name="TV3" tvg-ID="tv3.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" group-title="MY-AR",TV3
 https://tvmalaysiaonline.xyz/hls/channel1.m3u8|Referer=https://www.tvmalaysia.online/
 #EXTINF:0 tvg-name="TV9" tvg-ID="tv9.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/48_144.png" group-title="MY-AR",TV9
-https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHfNjC75ZbhkysPwY8NvPil8)/dm/3/x6qqja6/s/live-4.m3u8|Referer=https://www.xtra.com.my
-streamlink --http-header "User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.130 AOL/9.8 AOLBuild/4346.2019.US Safari/537.36" --http-header "Referer=https://www.xtra.com.my/live-tv/" "hlsvariant://https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHfNjC75ZbhkysPwY8NvPil8)/dm/3/x6qqja6/s/live-4.m3u8" live
+#EXTVLCOPT:http-referrer=https://www.xtra.com.my/https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHfNjC75ZbhkysPwY8NvPil8)/dm/3/x6qqja6/s/live-4.m3u8
 #EXTINF:0 tvg-name="NTV7" tvg-ID="ntv7.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/93_144.png" group-title="MY-AR",NTV7
 https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHRI3RorIpoDM_xisUVU3E6s)/dm/3/x6qp6ou/s/live-1.m3u8
 #EXTINF:0 tvg-name="Drama Sangat" tvg-logo="https://i.imgur.com/cTzLBiQ.jpg" group-title="MY-AR",Drama Sangat
@@ -32,8 +31,8 @@ https://tvmalaysiaonline.xyz/hls/channel8.m3u8|Referer=https://www.tvmalaysia.on
 https://tvmalaysiaonline.xyz/hls/channel7.m3u8|Referer=https://www.tvmalaysia.online/
 #EXTINF:0 tvg-name="Astro Arena" tvg-ID="astroarena.my" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/Ct3sncQXg6.png" group-title="MY-AR",Astro Arena
 https://tvmalaysiaonline.xyz/hls/channel18.m3u8|Referer=https://www.tvmalaysia.online/
-#EXTINF:0 tvg-name="Kix TV" tvg-ID="kixtv.my" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/705_300.png"user-agent="Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36" group-title="MY-AR",Kix TV #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
-https://livecdn.fptplay.net/hda/kixhd_hls.smil/playlist.m3u8
+#EXTINF:0 tvg-name="Kix TV" tvg-ID="kixtv.my" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/705_300.png"user-agent="Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36" group-title="MY-AR",Kix TV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36 https://livecdn.fptplay.net/hda/kixhd_hls.smil/playlist.m3u8
 https://tvmalaysiaonline.xyz/hls/channel18.m3u8|Referer=https://www.tvmalaysia.online/
 #EXTINF:0 tvg-name="Star Movies HD" tvg-ID="starmovies.in" tvg-logo="https://brandslogo.net/wp-content/uploads/2015/09/star-movies-logo-vector-download.jpg" group-title="MY-AR",Star Movies HD
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
