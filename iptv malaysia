@@ -46,10 +46,8 @@ http://live.tv247.club/live/cinemax.m3u8|Referer=http://tv247.us/watch/cinemax/
 https://tvmalaysiaonline.xyz/hls/channel30.m3u8|Referer=https://www.tvmalaysia.online/
 #EXTINF:0 tvg-name="tvN" tvg-ID="tvN.HD.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/190_144.png" group-title="MY-AR",tvN
 https://tvmalaysiaonline.xyz/hls/channel29.m3u8|Referer=https://www.tvmalaysia.online/
-#EXTINF:-1 tvg-id="Kixtv" tvg-name="FOX Movies" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/_c1GwGITir1NUH20L6CbHjlBk9Q=/640x360/filters:quality(90)/vidio-web-prod-video/uploads/video/image/78131/fox-movies-premium-501-heroes-unite-b18d3c.jpg" group-title="Server ID",Server ID: FOX Movies FHD
-http://forsat.men:8888/merpatistream/merpati99/3640
-
-
+#EXTINF:-1 tvg-id="Foxmovies.us" tvg-name="FOX Movies" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/_c1GwGITir1NUH20L6CbHjlBk9Q=/640x360/filters:quality(90)/vidio-web-prod-video/uploads/video/image/78131/fox-movies-premium-501-heroes-unite-b18d3c.jpg" group-title="MY AR",FOX Movies
+https://h4.ustvgo.la/FXMovie/myStream/chunks.m3u8
 
 
 
