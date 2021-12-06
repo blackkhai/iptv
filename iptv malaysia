@@ -39,9 +39,7 @@ plugin://plugin.video.youtube/play/?video_id=-upyPouRrB8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/CNN.png",CNN
 plugin://plugin.video.youtube/play/?video_id=0g-C9zGbbzM
 #EXTINF:-1 tvg-id="hbo.my" tvg-name="HBO Asia" tvg-country="MY" tvg-language="Malay" tvg-language="Malay" tvg-logo="" group-title="MY-AR",HBO
-https://tvmalaysiaonline.xyz/hls/channel16.m3u8
-#EXTINF:-1,US: HBO ZONE
-http://un-pluggedtv.net:8080/Mrsd/D1234567/34798
+http://live.tv247.club/live/hbo.m3u8|Referer=http://tv247.us/watch/cinemax/
 #EXTINF:0 tvg-name="Cinemax" tvg-ID="cinemax.my" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Cinemax_new.png" group-title="MY-AR",Cinemax
 http://live.tv247.club/live/cinemax.m3u8|Referer=http://tv247.us/watch/cinemax/
 #EXTINF:0 tvg-name="tvN Movies" tvg-ID="tvnmovies.my" tvg-logo="http://www.businesskorea.co.kr/news/userArticlePhoto.html" group-title="MY-AR",tvN Movies
@@ -50,8 +48,7 @@ https://tvmalaysiaonline.xyz/hls/channel30.m3u8|Referer=https://www.tvmalaysia.o
 https://tvmalaysiaonline.xyz/hls/channel29.m3u8|Referer=https://www.tvmalaysia.online/
 #EXTINF:-1 tvg-id="Kixtv" tvg-name="FOX Movies" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/_c1GwGITir1NUH20L6CbHjlBk9Q=/640x360/filters:quality(90)/vidio-web-prod-video/uploads/video/image/78131/fox-movies-premium-501-heroes-unite-b18d3c.jpg" group-title="Server ID",Server ID: FOX Movies FHD
 http://forsat.men:8888/merpatistream/merpati99/3640
-#EXTINF:-1,HBO HD
-http://186.226.215.43:8000/play/a05z
+
 
 
 
