@@ -47,6 +47,8 @@ https://tvmalaysiaonline.xyz/hls/channel30.m3u8|Referer=https://www.tvmalaysia.o
 https://tvmalaysiaonline.xyz/hls/channel29.m3u8|Referer=https://www.tvmalaysia.online/
 #EXTINF:-1 tvg-id="natgeo" tvg-name="National Geography" tvg-country="MY" tvg-language="Malay" tvg-language="Malay" tvg-logo="https://logos-download.com/wp-content/uploads/2016/07/National_Geographic_logo.png" group-title="MY-AR",Nat GEO (720p)
 https://tvmalaysiaonline.xyz/hls/natgeo.m3u8|Referer=https://www.tvmalaysia.online/
+#EXTINF:-1 tvg-id="discovery" tvg-name="NDiscovery" tvg-country="MY" tvg-language="Malay" tvg-language="Malay" tvg-logo="https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/Discovery_Logo_Screen_RGB-square.png" group-title="MY-AR",Discovery
+https://tvmalaysiaonline.xyz/hls/discovery.m3u8|Referer=https://www.tvmalaysia.online/
 
 
 
