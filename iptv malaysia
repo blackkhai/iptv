@@ -5,7 +5,7 @@
 https://rtmlive01.secureswiftcontent.com/rtmchannel/01-480.m3u8|Referer=https://myklik.rtm.gov.my
 #EXTINF:0 tvg-name="TV2" tvg-ID="tv2.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/396_144.png" group-title="MY-AR",TV2
 https://rtmlive05.secureswiftcontent.com/rtmchannel/05-480.m3u8|Referer=https://myklik.rtm.gov.my
-#EXTINF:0 tvg-name="Okey" tvg-ID="Okey.my" tvg-logo="https://en.wikipedia.org/wiki/TV_Okey#/media/File:Okey_RTM.png"MY-AR",TVOkey
+#EXTINF:0 tvg-name="Okey" tvg-ID="Okey.my" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/TV_Okey_RTM.png"MY-AR",TVOkey
 https://rtmlive02.secureswiftcontent.com/rtmchannel/02-480.m3u8|Referer=https://myklik.rtm.gov.my
 #EXTINF:0 tvg-name="RTM Sport" tvg-ID="tvsukan.my" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/Sukan_RTM_1_April.png" group-title="MY-AR",RTM Sport
 https://rtmlive06.secureswiftcontent.com/rtmchannel/06-1080.m3u8|Referer=https://myklik.rtm.gov.my
@@ -21,17 +21,14 @@ https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHchfF5-U_MFih_7Zih
 https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHb6rcZbh1jTDrQwnDP4YyYw)/dm/3/x6qqja6/s/live-1.m3u8
 #EXTINF:0 tvg-name="Astro Awani" tvg-ID="AstroAwani.my" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Astro_Awani.png" group-title="MY-AR",Astro Awani (1080p)
 https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
-#EXTINF:-1 tvg-id="astrooasis.my" tvg-name="Astro Oasis" tvg-country="MY" tvg-language="Malay" tvg-language="Malay" tvg-logo=""https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/70_144.png" group-title="MY-AR",Astro Oasis
+#EXTINF:-1 tvg-id="astrooasis.my" tvg-name="Astro Oasis" tvg-country="MY" tvg-language="Malay" tvg-language="Malay" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/315_144.png" group-title="MY-AR",Astro Oasis
 https://tvmalaysiaonline.xyz/hls/oasis.m3u8|Referer=https://www.tvmalaysia.online/
-#EXTINF:-1 tvg-id="astroprima.my" tvg-name="Astro Prima" tvg-country="MY" tvg-language="Malay" tvg-language="Malay" tvg-logo=""https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png" group-title="MY-AR",Astro Prima
+#EXTINF:-1 tvg-id="astroprima.my" tvg-name="Astro Prima" tvg-country="MY" tvg-language="Malay" tvg-language="Malay" tvg-logo="https://de-digital-fortress-stg-assets.eco.astro.com.my/staging/2a4ea8d2d2e75e576b4a7de761113bc3.png" group-title="MY-AR",Astro Prima
 https://tvmalaysiaonline.xyz/hls/prima.m3u8|Referer=https://www.tvmalaysia.online/
 #EXTINF:0 tvg-name="Astro Citra" tvg-ID="Astro.Citra.HD.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png" group-title="MY-AR",Astro Citra
 https://tvmalaysiaonline.xyz/hls/channel7.m3u8|Referer=https://www.tvmalaysia.online/
 #EXTINF:-1 tvg-id="astroarena.my" tvg-name="Astro Arena" tvg-country="MY" tvg-language="Malay" tvg-language="Malay" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/Ct3sncQXg6.png" group-title="MY-AR",Astro Arena
 https://tvmalaysiaonline.xyz/hls/arena.m3u8|Referer=https://www.tvmalaysia.online/
-#EXTINF:0 tvg-name="Kix TV" tvg-ID="kixtv.my" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/705_300.png"user-agent="Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36" group-title="MY-AR",Kix TV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36 
-https://livecdn.fptplay.net/hda/kixhd_hls.smil/playlist.m3u8
 #EXTINF:0 tvg-name="Star Movies HD" tvg-ID="starmovies.in" tvg-logo="https://brandslogo.net/wp-content/uploads/2015/09/star-movies-logo-vector-download.jpg" group-title="MY-AR",Star Movies HD
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://www.encounters.co.za/wp-content/uploads/2017/05/al-jazeera-500x288.png",Al Jazeera English
@@ -50,8 +47,6 @@ https://tvmalaysiaonline.xyz/hls/channel30.m3u8|Referer=https://www.tvmalaysia.o
 https://tvmalaysiaonline.xyz/hls/channel29.m3u8|Referer=https://www.tvmalaysia.online/
 #EXTINF:-1 tvg-id="natgeo" tvg-name="National Geography" tvg-country="MY" tvg-language="Malay" tvg-language="Malay" tvg-logo="https://logos-download.com/wp-content/uploads/2016/07/National_Geographic_logo.png" group-title="MY-AR",Nat GEO (720p)
 https://tvmalaysiaonline.xyz/hls/natgeo.m3u8|Referer=https://www.tvmalaysia.online/
-#EXTINF:-1 tvg-id="Foxmovies.us" tvg-name="FOX Movies" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/_c1GwGITir1NUH20L6CbHjlBk9Q=/640x360/filters:quality(90)/vidio-web-prod-video/uploads/video/image/78131/fox-movies-premium-501-heroes-unite-b18d3c.jpg" group-title="MY AR",FOX Movies
-https://h4.ustvgo.la/FXMovie/myStream/chunks.m3u8
 
 
 
