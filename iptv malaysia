@@ -49,6 +49,7 @@ https://tvmalaysiaonline.xyz/hls/channel29.m3u8|Referer=https://www.tvmalaysia.o
 https://tvmalaysiaonline.xyz/hls/natgeo.m3u8|Referer=https://www.tvmalaysia.online/
 #EXTINF:-1 tvg-id="discovery" tvg-name="NDiscovery" tvg-country="MY" tvg-language="Malay" tvg-language="Malay" tvg-logo="https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/Discovery_Logo_Screen_RGB-square.png" group-title="MY-AR",Discovery
 https://tvmalaysiaonline.xyz/hls/discovery.m3u8|Referer=https://www.tvmalaysia.online/
-
+#EXTINF:-1 tvg-id="history" tvg-name="History" tvg-country="MY" tvg-language="Malay" tvg-language="Malay" tvg-logo="https://scontent.fkul16-1.fna.fbcdn.net/v/t1.18169-9/12994567_10154165322803754_5016463073879304902_n.png?_nc_cat=100&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=a57TOR4GGqMAX_p7EhF&_nc_ht=scontent.fkul16-1.fna&oh=00_AT_eHzT2ASPh7gjTWqIJP3ILEiCXJOcEpfihnLYU1BJHEA&oe=6209AF7E" group-title="MY-AR",History
+https://tvmalaysiaonline.xyz/hls/history.m3u8|Referer=https://www.tvmalaysia.online/
 
 
