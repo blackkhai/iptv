@@ -10,7 +10,7 @@ https://rtmlive02.secureswiftcontent.com/rtmchannel/02-480.m3u8|Referer=https://
 #EXTINF:0 tvg-name="RTM Sport" tvg-ID="tvsukan.my" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/Sukan_RTM_1_April.png" group-title="MY-AR",RTM Sport
 https://rtmlive06.secureswiftcontent.com/rtmchannel/06-1080.m3u8|Referer=https://myklik.rtm.gov.my
 #EXTINF:-1 tvg-id="tv3.my" tvg-name="TV3" tvg-country="MY" tvg-language="Malay" tvg-language="Malay" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" group-title="MY-AR",TV3 
-https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHbVAYIN6fICnA1ixb28ljfE)/dm/3/x6qp375/d/live-0.m3u8
+https://stream-05.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHbVAYIN6fICnA1ixb28ljfE)/dm/3/x6qp375/d/live-1.m3u8
 #EXTINF:-1 tvg-id="ntv7.my" tvg-name="NTV7" tvg-country="MY" tvg-language="Malay" tvg-language="Malay" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/93_144.png" group-title="MY-AR",NTV7 
 https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHWappGitnI9ni3twvCztbIA)/dm/3/x6qp6ou/s/live-0.m3u8
 #EXTINF:0 tvg-name="Drama Sangat" tvg-logo="https://i.imgur.com/cTzLBiQ.jpg" group-title="MY-AR",Drama Sangat
@@ -39,8 +39,6 @@ plugin://plugin.video.youtube/play/?video_id=0g-C9zGbbzM
 https://tvmalaysiaonline.xyz/hls/hbo.m3u8|Referer=https://www.tvmalaysia.online/
 #EXTINF:0 tvg-name="Cinemax" tvg-ID="cinemax.my" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Cinemax_new.png" group-title="MY-AR",Cinemax
 https://tvmalaysiaonline.xyz/hls/cinemax.m3u8|Referer=https://www.tvmalaysia.online/
-#EXTINF:-1 tvg-id="axn.my" tvg-name="AXN" tvg-country="MY" tvg-language="Malay" tvg-language="Malay" tvg-logo="https://www.axn-asia.com/sites/axn-asia.com/files/axn_new.png" group-title="MY-AR",AXN
-https://tvmalaysiaonline.xyz/hls/axn.m3u8|Referer=https://www.tvmalaysia.online/
 #EXTINF:0 tvg-name="tvN Movies" tvg-ID="tvnmovies.my" tvg-logo="http://www.businesskorea.co.kr/news/userArticlePhoto.html" group-title="MY-AR",tvN Movies
 https://tvmalaysiaonline.xyz/hls/channel30.m3u8|Referer=https://www.tvmalaysia.online/
 #EXTINF:0 tvg-name="tvN" tvg-ID="tvN.HD.my" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/300px-Logo_tvN.svg.png" group-title="MY-AR",tvN
