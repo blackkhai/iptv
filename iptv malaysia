@@ -23,10 +23,12 @@ https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHb6rcZbh1jTDrQwnDP
 https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 #EXTINF:-1 tvg-id="astrooasis.my" tvg-name="Astro Oasis" tvg-country="MY" tvg-language="Malay" tvg-language="Malay" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/315_144.png" group-title="MY-AR",Astro Oasis
 https://tvmalaysiaonline.xyz/hls/oasis.m3u8|Referer=https://www.tvmalaysia.online/
+#EXTINF:-1 tvg-id="astroceria.my" tvg-name="Astro Ceria" tvg-country="MY" tvg-language="Malay" tvg-language="Malay" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Astro_Ceria.png" group-title="MY-AR",Astro Ceria
+https://tvmalaysia.cyou/hls/ceria.m3u8|Referer=https://www.tvmalaysia.online/
 #EXTINF:-1 tvg-id="astroprima.my" tvg-name="Astro Prima" tvg-country="MY" tvg-language="Malay" tvg-language="Malay" tvg-logo="https://de-digital-fortress-stg-assets.eco.astro.com.my/staging/2a4ea8d2d2e75e576b4a7de761113bc3.png" group-title="MY-AR",Astro Prima
 https://tvmalaysiaonline.xyz/hls/prima.m3u8|Referer=https://www.tvmalaysia.online/
 #EXTINF:0 tvg-name="Astro Citra" tvg-ID="Astro.Citra.HD.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png" group-title="MY-AR",Astro Citra
-https://tvmalaysiaonline.xyz/hls/channel7.m3u8|Referer=https://www.tvmalaysia.online/
+https://tvmalaysia.cyou/hls/citra.m3u8|Referer=https://www.tvmalaysia.online/
 #EXTINF:-1 tvg-id="astroarena.my" tvg-name="Astro Arena" tvg-country="MY" tvg-language="Malay" tvg-language="Malay" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/Ct3sncQXg6.png" group-title="MY-AR",Astro Arena
 https://tvmalaysiaonline.xyz/hls/arena.m3u8|Referer=https://www.tvmalaysia.online/
 #EXTINF:0 tvg-name="Star Movies HD" tvg-ID="starmovies.in" tvg-logo="https://brandslogo.net/wp-content/uploads/2015/09/star-movies-logo-vector-download.jpg" group-title="MY-AR",Star Movies HD
