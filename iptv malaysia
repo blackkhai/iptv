@@ -37,7 +37,7 @@ plugin://plugin.video.youtube/play/?video_id=-upyPouRrB8
 plugin://plugin.video.youtube/play/?video_id=0g-C9zGbbzM
 #EXTINF:-1 tvg-id="hbo.my" tvg-name="HBO Asia" tvg-country="MY" tvg-language="Malay" tvg-language="Malay" tvg-logo="" group-title="MY-AR",HBO
 https://tvmalaysia.cyou/hls/hbo.m3u8|Referer=https://www.tvmalaysia.online/
-#EXTINF:-1 tvg-id="axn.my" tvg-name="AXN" tvg-country="MY" tvg-language="Malay" tvg-language="Malay" tvg-logo="" group-title="MY-AR",AXN
+#EXTINF:-1 tvg-id="axn.my" tvg-name="AXN" tvg-country="MY" tvg-language="Malay" tvg-language="Malay" tvg-logo="https://www.axn-asia.com/sites/axn-asia.com/files/axn_new.png" group-title="MY-AR",AXN
 https://tvmalaysia.cyou/hls/axn.m3u8|Referer=https://www.tvmalaysia.online/
 #EXTINF:0 tvg-name="Cinemax" tvg-ID="cinemax.my" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Cinemax_new.png" group-title="MY-AR",Cinemax
 https://tvmalaysia.cyou/hls/cinemax.m3u8|Referer=https://www.tvmalaysia.online/
