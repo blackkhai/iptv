@@ -4,7 +4,7 @@
 #EXTINF:0 tvg-name="TV1" tvg-ID="TV1.HD.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png" group-title="MY-AR",TV1
 https://rtmlive01.secureswiftcontent.com/rtmchannel/01-480.m3u8|Referer=https://myklik.rtm.gov.my
 #EXTINF:0 tvg-name="TV2" tvg-ID="tv2.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/396_144.png" group-title="MY-AR",TV2
-https://rtmlive05.secureswiftcontent.com/rtmchannel/05-480.m3u8|Referer=https://myklik.rtm.gov.my
+https://rtmlive05.secureswiftcontent.com/rtmchannel/05-1080.m3u8|Referer=https://myklik.rtm.gov.my
 #EXTINF:0 tvg-name="Okey" tvg-ID="Okey.my" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/TV_Okey_RTM.png"MY-AR",TVOkey
 https://rtmlive02.secureswiftcontent.com/rtmchannel/02-480.m3u8|Referer=https://myklik.rtm.gov.my
 #EXTINF:0 tvg-name="RTM Sport" tvg-ID="tvsukan.my" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/Sukan_RTM_1_April.png" group-title="MY-AR",RTM Sport
@@ -25,10 +25,12 @@ https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 https://tvmalaysiaonline.xyz/hls/oasis.m3u8|Referer=https://www.tvmalaysia.online/
 #EXTINF:-1 tvg-id="astroceria.my" tvg-name="Astro Ceria" tvg-country="MY" tvg-language="Malay" tvg-language="Malay" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Astro_Ceria.png" group-title="MY-AR",Astro Ceria
 https://tvmalaysia.cyou/hls/ceria.m3u8|Referer=https://www.tvmalaysia.online/
-#EXTINF:-1 tvg-id="astroprima.my" tvg-name="Astro Prima" tvg-country="MY" tvg-language="Malay" tvg-language="Malay" tvg-logo="https://de-digital-fortress-stg-assets.eco.astro.com.my/staging/2a4ea8d2d2e75e576b4a7de761113bc3.png" group-title="MY-AR",Astro Prima
-https://tvmalaysiaonline.xyz/hls/prima.m3u8|Referer=https://www.tvmalaysia.online/
+#EXTINF:-1 tvg-id="astroprima.my" tvg-name="Astro Prima" tvg-country="MY" tvg-language="Malay" tvg-language="Malay" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/Astro_Prima.png" group-title="MY-AR",Astro Prima
+https://tvmalaysia.cyou/hls/prima.m3u8|Referer=https://www.tvmalaysia.online/
 #EXTINF:0 tvg-name="Astro Citra" tvg-ID="Astro.Citra.HD.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png" group-title="MY-AR",Astro Citra
 https://tvmalaysia.cyou/hls/citra.m3u8|Referer=https://www.tvmalaysia.online/
+#EXTINF:-1 tvg-id="astroria.my" tvg-name="Astro Ria" tvg-country="MY" tvg-language="Malay" tvg-language="Malay" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/Astro_Ria.png" group-title="MY-AR",Astro Ria
+https://tvmalaysia.cyou/hls/ria.m3u8|Referer=https://www.tvmalaysia.online/
 #EXTINF:-1 tvg-id="astroarena.my" tvg-name="Astro Arena" tvg-country="MY" tvg-language="Malay" tvg-language="Malay" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/Ct3sncQXg6.png" group-title="MY-AR",Astro Arena
 https://tvmalaysiaonline.xyz/hls/arena.m3u8|Referer=https://www.tvmalaysia.online/
 #EXTINF:0 tvg-name="Star Movies HD" tvg-ID="starmovies.in" tvg-logo="https://brandslogo.net/wp-content/uploads/2015/09/star-movies-logo-vector-download.jpg" group-title="MY-AR",Star Movies HD
@@ -49,8 +51,6 @@ https://tvmalaysiaonline.xyz/hls/channel30.m3u8|Referer=https://www.tvmalaysia.o
 https://tvmalaysiaonline.xyz/hls/tvn.m3u8|Referer=https://www.tvmalaysia.online/
 #EXTINF:-1 tvg-id="natgeo" tvg-name="National Geography" tvg-country="MY" tvg-language="Malay" tvg-language="Malay" tvg-logo="https://logos-download.com/wp-content/uploads/2016/07/National_Geographic_logo.png" group-title="MY-AR",Nat GEO (720p)
 https://tvmalaysia.cyou/hls/natgeo.m3u8|Referer=https://www.tvmalaysia.online/
-#EXTINF:-1 tvg-id="discovery" tvg-name="NDiscovery" tvg-country="MY" tvg-language="Malay" tvg-language="Malay" tvg-logo="https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/Discovery_Logo_Screen_RGB-square.png" group-title="MY-AR",Discovery
-https://tvmalaysiaonline.xyz/hls/discovery.m3u8|Referer=https://www.tvmalaysia.online/
 #EXTINF:-1 tvg-id="history" tvg-name="History" tvg-country="MY" tvg-language="Malay" tvg-language="Malay" tvg-logo="https://scontent.fkul16-1.fna.fbcdn.net/v/t1.18169-9/12994567_10154165322803754_5016463073879304902_n.png?_nc_cat=100&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=a57TOR4GGqMAX_p7EhF&_nc_ht=scontent.fkul16-1.fna&oh=00_AT_eHzT2ASPh7gjTWqIJP3ILEiCXJOcEpfihnLYU1BJHEA&oe=6209AF7E" group-title="MY-AR",History
 https://tvmalaysia.cyou/hls/history.m3u8|Referer=https://www.tvmalaysia.online/
 
