@@ -24,11 +24,11 @@ https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 #EXTINF:-1 tvg-id="astrooasis.my" tvg-name="Astro Oasis" tvg-country="MY" tvg-language="Malay" tvg-language="Malay" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/315_144.png" group-title="MY-AR",Astro Oasis
 https://tvmalaysiaonline.xyz/hls/oasis.m3u8|Referer=https://www.tvmalaysia.online/
 #EXTINF:-1 tvg-id="astroceria.my" tvg-name="Astro Ceria" tvg-country="MY" tvg-language="Malay" tvg-language="Malay" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Astro_Ceria.png" group-title="MY-AR",Astro Ceria
-https://tvmalaysia.cyou/hls/ceria.m3u8|Referer=https://www.tvmalaysia.online/
+https://tvmalaysiaonline.xyz/hls/ceria.m3u8|Referer=https://www.tvmalaysia.online/
 #EXTINF:-1 tvg-id="astrowarna.my" tvg-name="Astro Warna tvg-country="MY" tvg-language="Malay" tvg-language="Malay" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Astro_Warna_NEW.png" group-title="MY-AR",Astro Warna
 https://tvmalaysia.cyou/hls/warna.m3u8|Referer=https://www.tvmalaysia.online/
 #EXTINF:-1 tvg-id="astroprima.my" tvg-name="Astro Prima" tvg-country="MY" tvg-language="Malay" tvg-language="Malay" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/Astro_Prima.png" group-title="MY-AR",Astro Prima
-https://tvmalaysia.cyou/hls/prima.m3u8|Referer=https://www.tvmalaysia.online/
+https://tvmalaysiaonline.xyz/hls/prima.m3u8|Referer=https://www.tvmalaysia.online/
 #EXTINF:0 tvg-name="Astro Citra" tvg-ID="Astro.Citra.HD.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png" group-title="MY-AR",Astro Citra
 https://tvmalaysia.cyou/hls/citra.m3u8|Referer=https://www.tvmalaysia.online/
 #EXTINF:-1 tvg-id="astroria.my" tvg-name="Astro Ria" tvg-country="MY" tvg-language="Malay" tvg-language="Malay" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/Astro_Ria.png" group-title="MY-AR",Astro Ria
