@@ -9,7 +9,9 @@ https://rtmlive05.secureswiftcontent.com/rtmchannel/05-1080.m3u8|Referer=https:/
 https://rtmlive02.secureswiftcontent.com/rtmchannel/02-1080.m3u8|Referer=https://myklik.rtm.gov.my
 #EXTINF:0 tvg-name="RTM Sport" tvg-ID="tvsukan.my" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/Sukan_RTM_1_April.png" group-title="MY-AR",RTM Sport
 https://rtmlive06.secureswiftcontent.com/rtmchannel/06-1080.m3u8|Referer=https://myklik.rtm.gov.my
-#EXTINF:-1 tvg-id="tv3.my" tvg-name="TV3" tvg-country="MY" tvg-language="Malay" tvg-language="Malay" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" group-title="MY-AR",TV3 
+#EXTINF:-1 tvg-id="tv Alhijrah.my" tvg-name="TV Al Hijrah" tvg-country="MY" tvg-language="Malay" tvg-language="Malay" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" group-title="MY-AR",TV ALHijrah
+https://tvmalaysia.cyou/hls/alhijrah.m3u8|Referer=https://www.tvmalaysia.online/
+#EXTINF:-1 tvg-id="tv3.my" tvg-name="TV3" tvg-country="MY" tvg-language="Malay" tvg-language="Malay" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" group-title="MY-AR",TV TV3
 https://tvmalaysia.cyou/hls/tv3.m3u8|Referer=https://www.tvmalaysia.online/
 #EXTINF:-1 tvg-id="ntv7.my" tvg-name="NTV7" tvg-country="MY" tvg-language="Malay" tvg-language="Malay" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/93_144.png" group-title="MY-AR",NTV7 
 https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHboOJ4lEtPmtgJutdaiqPvg)/dm/3/x6qp6ou/s/live-1.m3u8
