@@ -1,6 +1,10 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000,RESOLUTION=1280x720
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://www.tvmalaysiaonline.xyz/2021/06/cinemax.html
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-id="101" tvg-chno="101" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190708/20190708071026467w2e.png",TV1
+https://linearjitp-playback.astro.com.my/dash-wv/linear/603/default_primary.mpd
 #EXTINF:0 tvg-name="TV1" tvg-ID="TV1.HD.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png" group-title="MY-AR",TV1
 https://rtmlive01.secureswiftcontent.com/rtmchannel/01-1080.m3u8|Referer=https://myklik.rtm.gov.my
 #EXTINF:0 tvg-name="TV2" tvg-ID="tv2.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/396_144.png" group-title="MY-AR",TV2
