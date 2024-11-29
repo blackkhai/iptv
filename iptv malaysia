@@ -55,6 +55,27 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/1001/default.mpd
 https://tvmalaysia.cyou/hls/natgeo.m3u8|Referer=https://www.tvmalaysia.live/
 #EXTINF:-1 tvg-id="history" tvg-name="History" tvg-country="MY" tvg-language="Malay" tvg-language="Malay" tvg-logo="https://scontent.fkul16-1.fna.fbcdn.net/v/t1.18169-9/12994567_10154165322803754_5016463073879304902_n.png?_nc_cat=100&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=a57TOR4GGqMAX_p7EhF&_nc_ht=scontent.fkul16-1.fna&oh=00_AT_eHzT2ASPh7gjTWqIJP3ILEiCXJOcEpfihnLYU1BJHEA&oe=6209AF7E" group-title="MY-AR",History
 https://linearjitp-playback.astro.com.my/dash-wv/linear/604/default_primary.mpd
+#EXTINF:-1 tvg-id="TV2" group-title="myFreeview" ch-number="102" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190708/20190708070724242ygr.png",102 TV2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"JKmxeFmGKIfyj2PHwpvKpQ", "kid":"T4hUgf4FPlRAllMsHcuXEA" } ], "type":"temporary" }
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5027/default_primary.mpd
+
+#EXTINF:-1 tvg-id="TV3" group-title="myFreeview" ch-number="103" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png",103 TV3
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"X842T7xEmYVll7GalvRGSA", "kid":"O8Pw5Riu2S6AqYEY5bwsEA" } ], "type":"temporary" }
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/809/default.mpd
+
+#EXTINF:-1 group-title="Astro" tvg-id="AstroRia" ch-number="104" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png",104 Astro Ria
+##KODIPROP:inputstream.adaptive.license_type=clearkey
+##KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"N2sAl5bkrVDqj2jXlmdmkg", "kid":"P3Jv1cu/WURDek2/q0MbEA" } ], "type":"temporary" } 
+##https://linearjitp02-playback.astro.com.my/vsg/41Q2JOX8KtOe28ba8x3splIguOrP487D2BAVqzhfqNLpU=z4VY/dash-wv/jitp-linearwm/1004/default.mpd
+##https://ktpremium.com:443/N197NGF/8199/912833
+https://smt.sky4k.eu.org/AEC_V6/index.php?play=stream1&id=AstroRiaHD
+
+#EXTINF:-1 tvg-id="AstroPrima" group-title="Astro" ch-number="105" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c4/Astro_Prima_2019.png/revision/latest?cb=20190111152445",105 Astro Prima
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"hBL0RP++NQzy7OBR+RUukA", "kid":"C2Uyau3j7b6B5vtAMX1TEA" } ], "type":"temporary" }
+https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_primary.mpd
 
 
 
