@@ -30,7 +30,7 @@ https://linears-playback.astro.com.my/vsg/41YlqjTDdCzlN4YZlvTrBfz034TZ8qEXbM0ZFo
 #EXTINF:-1 tvg-id="astroprima.my" tvg-name="Astro Prima" tvg-country="MY" tvg-language="Malay" tvg-language="Malay" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/Astro_Prima.png" group-title="MY-AR",Astro Prima
 https://linears-playback.astro.com.my/vsg/41i3ZavjNLNR9Cw2TlO57sjzIDx_XbHsuDGBVR1kYsXKw=My_5/dash-wv/jitp-linearwm/1000/default_primary.mpd|Referer=https://www.tvmalaysia.live/
 #EXTINF:0 tvg-name="Astro Citra" tvg-ID="Astro.Citra.HD.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png" group-title="MY-AR",Astro Citra
-https://linears-playback.astro.com.my/vsg/41UEYCDLKfByqVkPfFVCQrVHMN0r-Kk4bUfe4fLmaEfBI=sHqW/dash-wv/jitp-linearwm/2700/default_primary.mpd|Referer=https://www.tvmalaysia.live/
+https://linearjitp-playback.astro.com.my/dash-wv/linear/603/default_ott.mpd|Referer=https://www.tvmalaysia.live/
 #EXTINF:-1 tvg-id="astroria.my" tvg-name="Astro Ria" tvg-country="MY" tvg-language="Malay" tvg-language="Malay" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/Astro_Ria.png" group-title="MY-AR",Astro Ria
 https://linears-playback.astro.com.my/vsg/41ynOyD3dzifrKlKczu6h3h8zlVXW0zj553EBtbkGj0ZM=vIua/dash-wv/jitp-linearwm/1004/default_primary.mpd|Referer=https://www.tvmalaysia.live/
 #EXTINF:-1 tvg-id="astroarena.my" tvg-name="Astro Arena" tvg-country="MY" tvg-language="Malay" tvg-language="Malay" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/Ct3sncQXg6.png" group-title="MY-AR",Astro Arena
