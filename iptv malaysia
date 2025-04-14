@@ -1,10 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="AstroWarna" group-title="Astro" ch-number="107" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/Warna.png/revision/latest?cb=20200823172850",107 Astro Warna A
+#EXTINF:-1, Astro Warna (Test)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback.astro.com.my/wv/linear/603|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Referer=https://astrogo.astro.com.my|
+#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback.astro.com.my/wv/linear/603|Referer=https://astrogo.astro.com.my|User-Agent=Mozilla/5.0
 https://linearjitp-playback.astro.com.my/dash-wv/linear/603/default_ott.mpd
-
 
 #EXTINF:0 tvg-name="TV2" tvg-ID="tv2.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/396_144.png" group-title="MY-AR",TV2
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=2|Referer=https://rtmklik.rtm.gov.my/
