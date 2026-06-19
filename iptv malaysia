@@ -10,7 +10,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=2|Referer=https:
 #EXTINF:0 tvg-name="Okey" tvg-ID="Okey.my" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/TV_Okey_RTM.png"MY-AR",TVOkey
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist_b2596000_slENG.m3u8?id=4|Referer=https://rtmklik.rtm.gov.my/
 #EXTINF:0 tvg-name="RTM Sport" tvg-ID="tvsukan.my" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/Sukan_RTM_1_April.png" group-title="MY-AR",RTM Sport
-https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/playlist.m3u8?id=4|Referer=https://rtmklik.rtm.gov.my/
+https://d25tgymtnqzu8s.cloudfront.net/live/media0/sukan/HLS/sukan-mp4a_128000_eng=4263252627.m3u8|Referer=https://rtmklik.rtm.gov.my/
 #EXTINF:-1 tvg-id="tv Alhijrah.my" tvg-name="TV Al Hijrah" tvg-country="MY" tvg-language="Malay" tvg-language="Malay" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0f/TV_Alhijrah_logo.png" group-title="MY-AR",TV ALHijrah
 https://172048-castr.akamaized.net/61e0e9a88ecf869e0a595bfa/live_feb292e0f94c11edbc052354c95d3ff1/tracks-v1a1/mono.m3u8|Referer=https://www.tvmalaysia.live/
 #EXTINF:-1 tvg-id="tv3.my" tvg-name="TV3" tvg-country="MY" tvg-language="Malay" tvg-language="Malay" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" group-title="MY-AR",TV TV3
